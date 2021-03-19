@@ -23,20 +23,20 @@ Sumo logic endpoint in this case
 
 1. From Sumo Logic, select Manage Data > Collection > Setup Wizard and select Set Up Streaming Data.
 
-	![Sumo Logic Setup : step 1](https://github.com/rakeshr-18/Sumo-Logic/blob/main/Screenshots/sumo%20step1.png)	
+	![Sumo Logic Setup : step 1](https://github.com/catchpoint/Integrations.SumoLogic/blob/main/Screenshots/sumo%20step1.png)	
 
 1.  Select Your custom app and chose HTTP source.
 
-	![Sumo Logic Setup : step 2](https://github.com/rakeshr-18/Sumo-Logic/blob/main/Screenshots/sumo%20step2.png)
+	![Sumo Logic Setup : step 2](https://github.com/catchpoint/Integrations.SumoLogic/blob/main/Screenshots/sumo%20step2.png)
 
 1. Enter `Catchpoint-Testdata-Webhooks` for Source Category and click Next, it should start creating an endpoint.
 
-	![Sumo Logic Setup : step 3](https://github.com/rakeshr-18/Sumo-Logic/blob/main/Screenshots/sumo%20step3.png)
+	![Sumo Logic Setup : step 3](https://github.com/catchpoint/Integrations.SumoLogic/blob/main/Screenshots/sumo%20step3.png)
 
 1. Copy the HTTP Source URL that appears on the following page. This will be
 required when configuring Catchpoint Test data webhooks. After copying the URL click Next.
 
-	![Sumo Logic Setup : step 4](https://github.com/rakeshr-18/Sumo-Logic/blob/main/Screenshots/sumo%20step4.png)
+	![Sumo Logic Setup : step 4](https://github.com/catchpoint/Integrations.SumoLogic/blob/main/Screenshots/sumo%20step4.png)
 
 **Catchpoint Setup:**
 
@@ -74,15 +74,15 @@ To install the Catchpoint app:
 
 Click the filter icon in the top-left corner of the dashboard to display a list of filters you can apply across the entire dashboard. Use the filters to drill down and examine the data on a more granular level.
 
-![Dashboard Filters](https://github.com/rakeshr-18/Sumo-Logic/blob/main/Screenshots/filters.png)
+![Dashboard Filters](https://github.com/catchpoint/Integrations.SumoLogic/blob/main/Screenshots/filters.png)
 
-![Dashboard Filters - Dropdown](https://github.com/rakeshr-18/Sumo-Logic/blob/main/Screenshots/filters%20dropdown.png)
+![Dashboard Filters - Dropdown](https://github.com/catchpoint/Integrations.SumoLogic/blob/main/Screenshots/filters%20dropdown.png)
 
-![Overview Dashboard](https://github.com/rakeshr-18/Sumo-Logic/blob/main/Screenshots/overview.png)
+![Overview Dashboard](https://github.com/catchpoint/Integrations.SumoLogic/blob/main/Screenshots/overview.png)
 
 To get more Insights on a particular test, click on the test names this will link to Catchpoint Smart board.
 
-![Test Times Dashboard](https://github.com/rakeshr-18/Sumo-Logic/blob/main/Screenshots/Test%20times.png)
+![Test Times Dashboard](https://github.com/catchpoint/Integrations.SumoLogic/blob/main/Screenshots/Test%20times.png)
 
 **Query samples**
 
